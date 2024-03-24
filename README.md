@@ -72,4 +72,7 @@ A live demo of this project is available on GitHub Pages: [Form Validator Demo](
 - [CSS-Tricks: Form Validation Part 1: Constraint Validation in HTML](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
   - This article provided detailed insights into HTML constraint validation, guiding the implementation of validation rules directly in HTML without the need for JavaScript.
 
+- [Rangle.io: How to Store User Passwords and Overcome Security Threats in 2017](https://rangle.io/blog/how-to-store-user-passwords-and-overcome-security-threats-in-2017)
+  - This article from Rangle.io provides insights into secure password storage techniques and strategies to mitigate security threats, which informed the implementation of password validation in the form validator application.
+
 These resources were invaluable in understanding HTML form elements, CSS styling, JavaScript event handling, and form validation techniques, which were essential in building the Form Validator application.
